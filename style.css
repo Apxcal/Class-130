@@ -1,0 +1,27 @@
+.heading{
+    box-shadow: 5px 5px 5px black;
+    font-size:30;
+    padding:5px;
+    margin:0px;
+    width:100%
+}
+
+.heading p{
+    font-size:25;
+    color:darkslateblue;
+}
+
+#songheading{
+    font-size:30;
+    box-shadow: 4px 4px 4px red;
+    padding:5px;
+    margin:5px;
+}
+
+canvas{
+    border:5px solid black;
+    border-radius:25px;
+    box-shadow: 7px 7px 7px gray;
+    padding:6px;
+    margin:8px;
+}
